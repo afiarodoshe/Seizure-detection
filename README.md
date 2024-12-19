@@ -6,11 +6,11 @@ This repository focuses on the development of machine-learning models to detect 
 
 # Key Features of the Repository
 
- 1. Dataset Handling**
+ 1. Dataset Handling
    - Provides scripts to load and preprocess EEG datasets.
    - Includes functions to clean and standardize EEG signals for consistency.
 
- 2. Feature Engineering**
+ 2. Feature Engineering
    - Implements feature extraction techniques, such as band power measures and statistical descriptors, to capture meaningful patterns from EEG signals.
    - Features are tailored for distinguishing seizure and non-seizure events.
 
@@ -18,7 +18,7 @@ This repository focuses on the development of machine-learning models to detect 
 Implementation of supervised learning algorithms, including Logistic Regression, Support Vector Machines, Random Forest, and Neural Networks.
 Exploration of ensemble learning methods, such as Bagging and Boosting, to combine the strengths of multiple models and improve detection accuracy.
 
- 4. Evaluation and Visualization**
+ 4. Evaluation and Visualization
    - Scripts for evaluating model performance using metrics such as accuracy, precision, recall, and F1-score.
    - Provides visualizations of data, features, and model performance for better interpretability.
 
